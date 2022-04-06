@@ -29,7 +29,7 @@ public class HoteventsController {
 
     @Resource
     private CommentsService commentsService;
-    //ajax分页
+    //ajax分页sdadkasdksadfs
     @RequestMapping("/showAjax")
     @ResponseBody
     public PageUtil<Hotevents> showAjax(
